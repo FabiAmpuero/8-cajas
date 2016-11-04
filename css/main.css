@@ -1,0 +1,32 @@
+div {
+    background: #c9c9c9;
+    width: 150px;
+    height: 150px;
+    border: 0.5px solid black;
+    margin-bottom: 15px;
+    position:static;
+}
+.padre {
+    position: relative;
+    background: #c9c9c9;
+    width: 530px;
+    height: 190px;
+}
+.box {
+    float: left;
+    top: 15px;
+    position: relative;
+    left: 15px;
+    margin-right: 15px;
+}
+.box2 {
+    float: left;
+    margin-right: 15px;
+}
+.last {
+    position: relative;
+    top: 180px;
+}
+.first {
+    margin-bottom: 8px;
+}
